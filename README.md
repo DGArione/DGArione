@@ -5,7 +5,7 @@
 
 <!-- ===================== HEADER BANNER ========================= -->
 <a href="https://rapidsolutions.live">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Arione&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Founder%20of%20Rapid%20Solutions%20%E2%80%A2%20Sri%20Lanka&descAlignY=60&descSize=17" alt="header banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Arione&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Co-Founder%20of%20Rapid%20Solutions%20%E2%80%A2%20Sri%20Lanka&descAlignY=60&descSize=17" alt="header banner" />
 </a>
 
 <!-- ===================== TYPING ANIMATION ====================== -->
