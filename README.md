@@ -1,11 +1,11 @@
 <!-- ============================================================= -->
-<!--  GITHUB PROFILE README  —  github.com/DGArione                 -->
+<!--  GITHUB PROFILE README  —  Arione  (github.com/DGArione)       -->
 <!--  Ready to use. Paste into the README of a repo named DGArione. -->
 <!-- ============================================================= -->
 
 <!-- ===================== HEADER BANNER ========================= -->
 <a href="https://rapidsolutions.live">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Rapid%20Solutions&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Development%20%E2%80%A2%20Creative%20Marketing%20%E2%80%A2%20Sri%20Lanka&descAlignY=60&descSize=18" alt="header banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Arione&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Founder%20of%20Rapid%20Solutions%20%E2%80%A2%20Sri%20Lanka&descAlignY=60&descSize=17" alt="header banner" />
 </a>
 
 <!-- ===================== TYPING ANIMATION ====================== -->
@@ -22,7 +22,7 @@
 - 💻 I build full-stack web apps, POS systems, booking platforms & cloud infrastructure
 - 🧩 Currently working on learning platforms, cinema booking & SaaS products
 - 🌱 Always learning — cloud, DevOps & modern web
-- 📫 Reach me at **info@rapidsolutions.live**
+- 📫 Reach me at **thearione01@gmail.com**
 - ⚡ Fun fact: I ship fast (hence the name) 😄
 
 <br>
@@ -67,8 +67,8 @@
   <a href="https://rapidsolutions.live">
     <img src="https://img.shields.io/badge/Website-rapidsolutions.live-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
   </a>
-  <a href="mailto:info@rapidsolutions.live">
-    <img src="https://img.shields.io/badge/Email-info@rapidsolutions.live-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <a href="mailto:thearione01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-thearione01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://wa.me/94766025467">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
