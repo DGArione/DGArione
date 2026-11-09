@@ -20,7 +20,7 @@
 
 - 🚀 I run **[Rapid Solutions](https://rapidsolutions.live)** - a web development & creative marketing studio
 - 💻 I build full-stack web apps, POS systems, booking platforms & cloud infrastructure
-- 🧩 Currently working on learning platforms, cinema booking & SaaS products
+- 🧩 Currently working on learning platforms & SaaS products
 - 🌱 Always learning - cloud, DevOps & modern web
 - 📫 Reach me at **thearione01@gmail.com**
 - ⚡ Fun fact: I ship fast (hence the name) 😄
