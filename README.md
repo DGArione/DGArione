@@ -18,10 +18,10 @@
 <!-- ===================== ABOUT ME ============================== -->
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-- 🚀 I run **[Rapid Solutions](https://rapidsolutions.live)** — a web development & creative marketing studio
+- 🚀 I run **[Rapid Solutions](https://rapidsolutions.live)** - a web development & creative marketing studio
 - 💻 I build full-stack web apps, POS systems, booking platforms & cloud infrastructure
 - 🧩 Currently working on learning platforms, cinema booking & SaaS products
-- 🌱 Always learning — cloud, DevOps & modern web
+- 🌱 Always learning - cloud, DevOps & modern web
 - 📫 Reach me at **thearione01@gmail.com**
 - ⚡ Fun fact: I ship fast (hence the name) 😄
 
